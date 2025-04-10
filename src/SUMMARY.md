@@ -22,6 +22,8 @@
     - [Lowest Common Ancestor](graph/lca.md)
   - [Articulation Point and Bridge](graph/introduction_to_AP_bridge.md)
   - [BCC-Vertex and BCC-Edge](graph/introduction_to_BCC.md)
+  - [Strongly Connected Component](graph/SCC_with_2-SAT/Strongly_Connected_Component.md)
+    - [2-SAT](graph/SCC_with_2-SAT/2-SAT.md)
 - [Flow]()
 - [Sqrt Technique](sqrt/intro.md)
   - [Square Root Decomposition](sqrt/sqrt_decomposition.md)
